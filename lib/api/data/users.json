@@ -1,0 +1,14 @@
+[
+  {
+    "id": "bbfa595e-204a-4ac2-b7e0-5105b1760ee7",
+    "email": "user@mail.com",
+    "password": "$2b$04$6jmcKq9BL5WdM0YXGdiXfOCYhVNnD0KQsTRgtoWXKKAVIB/.ex/ce",
+    "role": "admin"
+  },
+  {
+    "id": "519227c0-5384-4a1d-9e93-83aec145c8c1",
+    "email": "user1@mail.com",
+    "password": "$2b$04$F6NhTWCRGQJFozN64vDniuPTsObg7hemep2LjfInOlL5JutmFhq4m",
+    "role": "user"
+  }
+]
