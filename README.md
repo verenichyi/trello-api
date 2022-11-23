@@ -1,8 +1,8 @@
 # Trello API
 
-REST API, который позволяет делать простые CRUD операции с разрешением доступа по ролям.
+REST API that allows you to perform simple CRUD operations with permission by user roles. 
 
-Для использования необходимо авторизоваться в trello.com. Затем по ссылке https://trello.com/app-key достать ключ и сгенерировать токен. Создать файл .env. Скопировать ключ и токен в файл .env в поля API_KEY и API_TOKEN.
+In order to use you need to authorize in trello.com. Then use link https://trello.com/app-key to get the key and generate token. Copy the key and the token in file ".env" in API_KEY и API_TOKEN fields correspondigly.
 
 ---
 
@@ -24,6 +24,6 @@ REST API, который позволяет делать простые CRUD о�
 
 ---
 
-### Документация POSTMAN:
+### POSTMAN:
 
 https://documenter.getpostman.com/view/19207805/UzBqpRGM
